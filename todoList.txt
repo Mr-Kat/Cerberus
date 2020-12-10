@@ -1,0 +1,2 @@
+work on economy events, connect repl.it database
+add economic games; coinflip, russian roulette, chess
